@@ -19,9 +19,9 @@ VisDrone2019-DET-val, test size = 640, using pytorch fp16 on 1xRTX 3090
 | [**PDWT-YOLO**](https://github.com/1thinker1/PDWT-YOLO) | 6.44 | 24.5 | 24.3% | 42.6% | 15.9% | 33.4% | 22.2 ms |
 | [**EdgeYOLO-T**](https://github.com/LSH9832/edgeyolo) | 5.5 | 27.24 | 21.8% | 38.5% | 12.4% | 32.5% | 29.93 ms |
 | [**EdgeYOLO-S**](https://github.com/LSH9832/edgeyolo) | 9.3 | 45.32 | 23.5% | 40.8% | 13.8%| 34.8% | 38.18 ms |
-| [**Drone-YOLO-N**](https://www.mdpi.com/2504-446X/7/8/526) | 3.05 | _ | 22.7% | 38.1% | _ | _ | 29.93 ms |
-| [**Drone-YOLO-T**](https://www.mdpi.com/2504-446X/7/8/526) | 5.35 | _ | 25.6% | 42.8% | _ | _ | 29.93 ms |
-| [**Drone-YOLO-S**](https://www.mdpi.com/2504-446X/7/8/526) | 10.0 | _ | 27.0% | 44.3% | _ | _ | 29.93 ms |
+| [**Drone-YOLO-N**](https://www.mdpi.com/2504-446X/7/8/526) | 3.05 | _ | 22.7% | 38.1% | _ | _ | _|
+| [**Drone-YOLO-T**](https://www.mdpi.com/2504-446X/7/8/526) | 5.35 | _ | 25.6% | 42.8% | _ | _ | _ |
+| [**Drone-YOLO-S**](https://www.mdpi.com/2504-446X/7/8/526) | 10.0 | _ | 27.0% | 44.3% | _ | _ | _ |
 | [**LEAF-YOLO-N (Ours)**](https://github.com/highquanglity/LEAF-YOLO/blob/main/cfg/LEAF-YOLO/leaf-sizen/weights/best.pt) | **1.2** | **5.6** | **21.9%** | **39.7%** | **14.0%** | **30.6%** | **16.2** ms |
 | [**LEAF-YOLO (Ours)**](https://github.com/highquanglity/LEAF-YOLO/blob/main/cfg/LEAF-YOLO/leaf-sizes/weights/best.pt) | **4.28** | **20.9** | **28.2%** | **48.3%** | **20.0%** | **38.0%** | **21.7 ms** |
 
