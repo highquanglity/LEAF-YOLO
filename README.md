@@ -148,7 +148,7 @@ abstract = {Advances in Unmanned Aerial Vehicles (UAVs) and deep learning have s
 
 ## Acknowledgements
 
-We would like to extend our gratitude to WongKinKyu for their work on YOLOv7 and Ultralytics for YOLOv5. This project builds upon the foundations laid by these incredible frameworks, and their contributions have been invaluable to the development of this repository.
+We would like to extend our gratitude to WongKinYiu for their work on YOLOv7 and Ultralytics for YOLOv5. This project builds upon the foundations laid by these incredible frameworks, and their contributions have been invaluable to the development of this repository.
 
 * [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
 * [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
